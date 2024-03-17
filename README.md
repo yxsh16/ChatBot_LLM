@@ -6,3 +6,7 @@ This is a mining chatbot built using Llama2 and Sentence Transformers. The bot i
 ```venv\Scripts\activate``` 
 
 ```pip install -r requirements.txt```
+
+```python ingest.py```
+
+```chainlit run model.py -w```
